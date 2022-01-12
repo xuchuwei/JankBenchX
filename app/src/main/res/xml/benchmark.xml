@@ -68,7 +68,6 @@
         benchmark:category="ui"
         benchmark:description="@string/bitmap_upload_description" />
 
-    <!--
     <com.android.benchmark.Benchmark
         benchmark:name="@string/memory_bandwidth_name"
         benchmark:id="@id/benchmark_memory_bandwidth"
@@ -98,6 +97,5 @@
         benchmark:id="@id/benchmark_cpu_gflops"
         benchmark:category="compute"
         benchmark:description="@string/cpu_gflops_description" />
-        -->
 
 </com.android.benchmark.BenchmarkGroup>

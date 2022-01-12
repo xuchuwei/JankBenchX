@@ -45,7 +45,7 @@ public class TestInterface {
     }
 
     static {
-        System.loadLibrary("nativebench");
+        System.loadLibrary("benchmark");
     }
 
     float[] mLinesLow;
